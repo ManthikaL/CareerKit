@@ -1,0 +1,46 @@
+{
+  "name": "careerkit",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@radix-ui/react-tabs": "^1.1.2",
+    "@tanstack/react-router": "^1.144.0",
+    "class-variance-authority": "0.7.1",
+    "clsx": "^2.1.1",
+    "date-fns": "^4.1.0",
+    "jiti": "latest",
+    "less": "latest",
+    "lightningcss": "latest",
+    "lucide-react": "^0.454.0",
+    "next": "16.1.1",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "sass": "latest",
+    "sass-embedded": "latest",
+    "stylus": "latest",
+    "sugarss": "latest",
+    "tailwind-merge": "^3.3.1",
+    "tailwindcss-animate": "1.0.7",
+    "terser": "latest",
+    "tsx": "latest",
+    "yaml": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "25.0.3",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "@vitejs/plugin-react": "^4.2.1",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.5.0",
+    "tailwindcss": "^4.1.9",
+    "typescript": "^5.5.0",
+    "vite": "^5.1.0"
+  }
+}
